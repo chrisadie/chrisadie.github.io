@@ -29,7 +29,7 @@ Third draft, 22 August 2018
 - [Death](#death)
 - [Epilogue](#epilogue)
 
-![Portrait of John Adie][def]
+![Portrait of John Adie][def1]
 
 ## Introduction
 
@@ -454,8 +454,8 @@ After her husband’s death, as his widow Mary Ann was entitled to a small pensi
 
 [^9]: His "ornithology" seems to have consisted of shooting birds and skinning them for later stuffing.
 
+[def1]: /assets/genealogy/JohnAdiePortrait.jpeg
 [def2]: /assets/genealogy/Chiffonne.jpeg
-[def]: /assets/genealogy/JohnAdiePortrait.jpeg
 [def3]: /assets/genealogy/MaryAnnWestile.jpeg
 [def4]: /assets/genealogy/HunterBruceTree.jpeg
 [def5]: /assets/genealogy/HomeArms.jpeg
