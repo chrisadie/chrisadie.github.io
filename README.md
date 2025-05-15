@@ -1,3 +1,3 @@
 # Chris Adie's github account
 
-Visit [the website](https://chrisadie.github.io/) instead.
+This is the source code repository for the website at [chrisadie.github.io](https://chrisadie.github.io/).

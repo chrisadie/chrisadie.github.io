@@ -1,10 +1,10 @@
 main:
   - title: "Genealogy"
     url: "/genealogy/"
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Poetry"
+    url: /poetry/
+  - title: "Fiction"
+    url: /fiction/
   - title: "Tags"
     url: /tags/
   - title: "About"

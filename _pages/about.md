@@ -5,8 +5,8 @@ title: "About"
 
 It's not about me, it's about you. Is this website for you?
 
-* Are you interested in genealogy, particularly Adie genealogy?
-* Are you deranged enough to be interested in my poor attempts at poetry?
+* Are you interested in [genealogy](/genealogy), particularly Adie genealogy?
+* Are you deranged enough to be interested in my poor attempts at [poetry](/poetry)?
 * Would you like to read some (very) short stories?
 * Are you studying physics?
 * Perhaps you want to know about some of the software I have written over the years?
