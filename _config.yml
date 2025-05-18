@@ -72,6 +72,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chrisadie"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chrisadie/"
 
 footer:
   links:
@@ -81,19 +84,22 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chrisadie"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chrisadie/"
 
 defaults:
   # _posts
-  # - scope:
-  #    path: ""
-  #    type: posts
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    read_time: true
-  #    comments: true
-  #    share: true
-  #    related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
   - scope:
       path: ""
       type: pages

@@ -1,6 +1,7 @@
 ---
 permalink: /genealogy/JohnAdieBiography
 title: Dr John Adie, Surgeon, RN
+toc: true
 ---
 
 A biography by Chris Adie
@@ -8,26 +9,6 @@ A biography by Chris Adie
 Third draft, 22 August 2018
 
 © Chris Adie 2018
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Early Life](#early-life)
-- [Naval Medicine](#naval-medicine)
-- [Naval Service to 1803](#naval-service-to-1803)
-- [The Mysterious Mary Ann](#the-mysterious-mary-ann)
-- [First Visit to Shetland](#first-visit-to-shetland)
-- [Naval Service 1804-1806](#naval-service-1804-1806)
-- [Lerwick 1807-1810](#lerwick-1807-1810)
-- [Walls in the 1810s](#walls-in-the-1810s)
-- [More Money Troubles](#more-money-troubles)
-- [Seafaring 1823-1826](#seafaring-1823-1826)
-- [Voe 1827-1837](#voe-1827-1837)
-- [Home Affairs](#home-affairs)
-- [Hunters and Bruces](#hunters-and-bruces)
-- [Elopement](#elopement)
-- [Death](#death)
-- [Epilogue](#epilogue)
 
 ![Portrait of John Adie][def1]
 

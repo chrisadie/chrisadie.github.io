@@ -1,11 +1,15 @@
 main:
+  - title: "Posts"
+    url: /posts/
   - title: "Genealogy"
-    url: "/genealogy/"
+    url: "/tags/genealogy/"
   - title: "Poetry"
-    url: /poetry/
+    url: /tags/poetry/
   - title: "Fiction"
-    url: /fiction/
+    url: /tags/fiction/
+  - title: "Software"
+    url: /tags/software/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Contact"
+    url: /contact.html
