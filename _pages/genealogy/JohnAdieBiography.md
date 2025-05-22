@@ -6,9 +6,7 @@ toc: true
 
 A biography by Chris Adie
 
-Third draft, 22 August 2018
-
-© Chris Adie 2018
+© Chris Adie 2018-2025
 
 ![Portrait of John Adie][def1]
 
@@ -81,9 +79,7 @@ On 15 November 1800, the Daedalus’s surgeon died, and John Adie was temporaril
 
 Life on the Victorious, a 74-gun third-rate ship of the line, was probably less exciting than on the Leopard or Daedalus. She proceeded from Penang to Colombo, then Bombay (Mumbai), Nagapattinam and Trincomalee, arriving at Madras (Chennai) in September 1801. There, finally, John got his promotion to surgeon on a new ship, HMS Chiffonne.
 
-![HMS Chiffonne][def2]
-
-*HMS Chiffonne, from National Maritime Museum, Greenwich, London (permission to be sought before publication)*
+{% include figure popup=true image_path="/assets/genealogy/Chiffonne.jpeg" alt="HMS Chiffonne" caption="HMS Chiffonne, from National Maritime Museum, Greenwich, London (permission to be sought before publication)" %}
 
 La Chiffonne was a 36-gun frigate, originally French. In August 1801, she had been captured in the Seychelles and taken to Madras, where Rainier appointed Captain Henry Stuart to her command. He took her to Bombay for a refit, where she stayed from January until July 1802. As surgeon, John Adie was not much involved in the refit, so would have had plenty of time to experience the sensual delights of Bombay. The Chiffonne arrived back in Madras in September 1802, where she stayed for a couple of weeks before departing on 9 October 1802 for Trincomalee and then London. After nearly five years of seafaring, John was on his way home.
 
@@ -91,9 +87,7 @@ La Chiffonne was a 36-gun frigate, originally French. In August 1801, she had be
 
 At this point, into our Boys’ Own story of ships and battles and admirals, glides a mysterious young English-born lady called Mary Ann Westile. Her origins are obscure, but it seems she might have been a Yorkshire lass. She may have been born in Whitby between about 1780 and 1785, but the day and exact year of her birth were unknown, even to her. Her father was Marmaduke Weatherall or Weathrall, her mother was perhaps Mary Ann Wilkison. Marmadule Weathrall emigrated to India, but I have found no records of his presence there.[^2]
 
-![Portrait of Mary Ann Westile][def3]
-
-*Portrait of Mary Ann Westile*
+{% include figure popup=true image_path="/assets/genealogy/MaryAnnWestile.jpeg" alt="Portrait of Mary Ann Westile" caption="Portrait of Mary Ann Westile" %}
 
 We do not know why Mary Ann had the surname Westile, sometimes spelt Westil, Westal or Westle. It is an uncommon name - in fact there seems no trace of it other than Mary Ann and a few of her descendants with that forename. In later life, Mary Ann stated that her father changed his name from Weathrall to Westile on emigrating to India, for reasons unknown to her.  I’ve so far found no mention of Westile or its variants in India Office records.
 
@@ -159,13 +153,11 @@ The agreement allowed Smith to retain for his own use
 
 For this, Smith was to pay £4 sterling annually back to John Adie.
 
-The agreement was signed “at Voe in Walls” - ie the Voe House now used as a camping böd. Stapness House still stands, and the “square piece of ground before and behind” is still evident, enclosed by a stone dyke.
+TThe agreement was signed “at Voe in Walls” - ie the Voe House now used as a camping böd. Stapness House (presumably the “manor house” above mentioned) is still in use though much altered, and the “square piece of ground before and behind” is still evident, enclosed by a stone dyke.
 
 So, where did John and his family live? The answer appears to be that he rented a house at the head of the voe from Thomas Henry of Bayhall. It’s unlikely this was the impressive Haa house of Bayhall, now subdivided into flats - more probably it was a smaller house close by. However, after a few years it seems Thomas Smith moved to Lerwick and John was able to move into Stapness House.
 
-![Old map of Walls][def9]
-
-*Ordnance Survey six-inch map, surveyed 1900. Reproduced with the permission of the National Library of Scotland.*
+{% include figure popup=true image_path="/assets/genealogy/Walls.png" alt="Old map of Walls" caption="Ordnance Survey six-inch map, surveyed 1900. Reproduced with the permission of the National Library of Scotland." %}
 
 Despite being only a “tacksman” and not the “heritor”, having taken full responsibility for the estate, John was now effectively laird of Stapness. As such, his concern would have been to make it pay - and in the early 19th century that meant mainly fishing. Many areas of Shetland were suffering from over-population, with arable land divided up into very small entitlements managed on the runrig system. This situation should have provided plenty of manpower for fishing “to the laird” - ie using boats and equipment provided by the laird, to whom the catch then belonged. I have found no records of how this went at Stapness during the early part of John’s reign, but some years later I find him ordering fishing gear and salt for fish-curing from Hay & Ogilvy in Lerwick and asking what price they would pay for his salted fish.
 
@@ -189,7 +181,9 @@ Other tenants were also troublesome. The house John rented in Bayhall was sub-le
 
 A small estate such as Stapness was never going to provide much profit, and John was struggling to maintain his family. In August 1817 he wrote to the naval authorities complaining that his half-pay was insufficient, and asking to be re-employed. The end of the Napoleonic war in 1815 meant that there were many unemployed naval officers looking for work, and it is not surprising that the Admiralty returned an unequivocal refusal.
 
-In January 1819 John departed Shetland for Leith, for purposes unknown. He wrote to Mary Ann from Fraserburgh, and it is perhaps worth quoting his letter in full:
+John was again looking to leave Shetland when, in 1818, he applied to emigrate to Canada. Either his application was refused, or he decided against the move and remained in Shetland.
+
+Nevertheless,in January 1819 John departed Shetland for Leith, for purposes unknown. He wrote to Mary Ann from Fraserburgh, and it is perhaps worth quoting his letter in full:
 
 >*Saltoun Inn, Fraserburgh, 5pm Friday 22 January 1819*
 >
@@ -247,9 +241,7 @@ As a freemason, John would have socialised with many of the local lairds, and Ar
 
 Arthur Gifford’s father Gideon had evicted a number of crofters around Olnafirth some time in the late 18th century and turned the area into a huge sheep farm. A Mr Welch was engaged as the manager or shepherd, and a house was built for him. The “Old House of Voe”, as it came to be known, was located immediately west of the present-day house of Brungasta (built 1903), and it survived until the early years of the twentieth century.[^8] The sheep farm eventually failed due to disease and, in the summer of 1827, John and his family moved into the Old House of Voe at Gifford’s invitation.
 
-![The old house of Voe][def8]
-
-*The old house of Voe, to the left of Brungasta. This image, taken around 1905-10, belongs to Shetland Museum and Archives. Permission must be sought before publication.*
+{% include figure popup=true image_path="/assets/genealogy/OldHouseOfVoe.jpeg" alt="The old house of Voe" caption="The old house of Voe, to the left of Brungasta. This image, taken around 1905-10, belongs to Shetland Museum and Archives. Permission must be sought before publication." %}
 
 In January 1828 Mary Ann had another boy child. Gifford’s patronage (and probable financial support) must have been of great assistance to John, who named his new son Arthur Gifford Adie in Busta’s honour.
 
@@ -265,7 +257,7 @@ On leaving school in August 1831, Thomas started in business, in partnership wit
 
 Harriett married in July 1830, and Eliza married in April 1831. Their departure, and the birth of Mary Ann’s last child Robina Hunter Adie in June 1832, made for a household of seven children: James (23), Thomas (17), Margaret (15), Jean (13) George Ann (10), Arthur (4) and baby Robina.
 
-![John Adie family tree][def7]
+{% include figure popup=true image_path="/assets/genealogy/JohnAdieTree.jpeg" alt="John Adie family tree" caption="John Adie family tree" %}
 
 John was no more faithful to his wife than previously. Writing in 1859, Thomas explains:
 
@@ -291,7 +283,7 @@ To the scroll’s author, the Christian names of these mere females were evident
 
 From other sources, we know that Sir George Home’s father, John Home of Kello, was an eminent Covenanter and an ally of Oliver Cromwell. At the restoration in 1660, he and many others were prosecuted for high treason and had their estates confiscated. However, at the accession of William and Mary in 1688, George Home had most of the family property restored to him. Knighted by King William, Sir George was Lord Provost of Edinburgh from 1698 to 1700, and died about 1712.
 
-![Home family tree][def6]
+{% include figure popup=true image_path="/assets/genealogy/HomeTree.jpeg" alt="Home of Kello family tree" caption="Home of Kello family tree." %}
 
 The descent continues with Sir George’s son, George Home of Kello, who married Janet Pitcairn, daughter of David Pitcairn of Dreghorn near Edinburgh. Four children of George and Janet are shown in the scroll, but we are principally concerned with the eldest son David Home of Kello, and his sister Jean Home, the heiress of Kello.
 
@@ -307,9 +299,7 @@ Extravagance was not the only drain on David Home’s wealth. His sister Jean (1
 
 One of David’s daughters, Janet Home, married John Sanders, who was a teller at the Bank of Scotland. Their daughter Janet Sanders was John Adie’s mother, making John the great-grand-nephew of Jean Home, and direct descendent of her brother David Home of Kello, the murderer of Mr Belches of Invermay.
 
-![Home family arms][def5]
-
-*A card with a painted representation of the Home coat of arms. On the reverse, in John Adie’s handwriting, it says “Coat of Arms of my Mother’s Family”.*
+{% include figure popup=true image_path="/assets/genealogy/HomeArms.jpeg" alt="Home family coat of arms" caption="A card with a painted representation of the Home coat of arms. On the reverse, in John Adie’s handwriting, it says “Coat of Arms of my Mother’s Family”." %}
 
 In the late 1820s, following the death of a childless second cousin, John arranged to have himself legally recognised as heir to the long-dead Jean Home, and thus inherited what remained of her property. This amounted merely to a tenement in Liberton’s Wynd, Edinburgh, which was standing in the way of the construction of George IV Bridge. The legal process took several years, and it was not until 1834, after construction of the new bridge was finished, that the sale of the (presumably by then demolished!) property to the Commissioners for City Improvements was completed. The £140 proceeds from the sale must have been a welcome boost to John’s resources.
 
@@ -323,9 +313,7 @@ Helen Bruce was born in Symbister in November 1803. Her paternal and maternal gr
 
 Another first cousin of Helen’s parents was Robert Hunter of Lunna (1768-1833), the third of his name. He lived for several years in England, and on his return home to Lunna he married, in August 1824, the twenty-year-old Helen Bruce, 35 years his junior. According to rumour at the time, Hunter believed his young wife was to inherit (or be given) about £10,000 from her father and, presumably in expectation of this, the marriage settlement provided for an annuity of £200 to Helen in the (likely) event of Robert predeceasing her. This was quite a large sum, roughly half the annual income which Robert was believed to derive from the estate of Lunna. The expected £10,000 did not materialise, and the relationship between Robert Hunter and his father-in-law (and first cousin) Robert Bruce of Symbister was rumoured to be consequently somewhat cool.
 
-![Hunter and Bruce family tree][def4]
-
-*A portion of the family tree of the Bruce and Hunter families. Many family members are omitted for clarity. The intricacy of the inter-relationships defeats two-dimensional portrayal and almost overwhelms mental capacity.*
+{% include figure popup=true image_path="/assets/genealogy/HunterBruceTree.jpeg" alt="Hunter and Bruce family tree" caption="A portion of the family tree of the Bruce and Hunter families. Many family members are omitted for clarity. The intricacy of the inter-relationships defeats two-dimensional portrayal and almost overwhelms mental capacity." %}
 
 Robert Hunter was, “though eccentric in some things, of a very benevolent and mild disposition”, while his wife had a very different character; their marriage was not thought to be “so happy as could be wished”. Nevertheless, the couple had four children, though their three sons died in infancy, only their daughter, Robina (born 1829) surviving into adulthood.
 
@@ -436,11 +424,3 @@ After her husband’s death, as his widow Mary Ann was entitled to a small pensi
 [^9]: His "ornithology" seems to have consisted of shooting birds and skinning them for later stuffing.
 
 [def1]: /assets/genealogy/JohnAdiePortrait.jpeg
-[def2]: /assets/genealogy/Chiffonne.jpeg
-[def3]: /assets/genealogy/MaryAnnWestile.jpeg
-[def4]: /assets/genealogy/HunterBruceTree.jpeg
-[def5]: /assets/genealogy/HomeArms.jpeg
-[def6]: /assets/genealogy/HomeTree.jpeg
-[def7]: /assets/genealogy/JohnAdieTree.jpeg
-[def8]: /assets/genealogy/OldHouseOfVoe.jpeg
-[def9]: /assets/genealogy/Walls.png

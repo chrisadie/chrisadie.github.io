@@ -6,4 +6,4 @@ tags:
   - fiction
 link: /assets/fiction/The-Word-hunter.pdf
 ---
-Reasonably pleased with this one.
+Reasonably pleased with this little story.

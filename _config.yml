@@ -88,6 +88,12 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chrisadie/"
 
+collections:
+  family-papers:
+    output: true
+    permalink: /family-papers/:title/
+    layout: family-paper
+    
 defaults:
   # _posts
   - scope:
@@ -113,6 +119,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: "family-papers"
+    values:
+      layout: "family-paper"
 
 category_archive:
   type: liquid
