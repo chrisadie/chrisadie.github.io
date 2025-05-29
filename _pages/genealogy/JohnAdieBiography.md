@@ -77,11 +77,11 @@ Further action followed, and the Daedalus made her way east to join the fleet le
 
 On 15 November 1800, the Daedalus’s surgeon died, and John Adie was temporarily promoted to acting surgeon. A few weeks later, the Daedalus arrived in the Malacca Straits, to rendezvous with Rainier’s flagship HMS Victorious. On New Year’s Day 1801, Rainier transferred John to the Victorious as surgeon’s first mate. John was only 18, but lied about his age, claiming to be 23 - probably in order to increase his chances of permanent promotion to surgeon.
 
-Life on the Victorious, a 74-gun third-rate ship of the line, was probably less exciting than on the Leopard or Daedalus. She proceeded from Penang to Colombo, then Bombay (Mumbai), Nagapattinam and Trincomalee, arriving at Madras (Chennai) in September 1801. There, finally, John got his promotion to surgeon on a new ship, HMS Chiffonne.
+Life on the Victorious, a 74-gun third-rate ship of the line, was probably less exciting than on the Leopard or Daedalus. She proceeded from Penang to Colombo, then Bombay (Mumbai), Nagapattinam and Trincomalee, arriving at Madras (Chennai) in September 1801. There, finally, John got his promotion to surgeon on a new ship, [HMS Chiffonne](https://en.wikipedia.org/wiki/French_frigate_Chiffonne_(1799)).
 
-{% include figure popup=true image_path="/assets/genealogy/Chiffonne.jpeg" alt="HMS Chiffonne" caption="HMS Chiffonne, from National Maritime Museum, Greenwich, London (permission to be sought before publication)" %}
+{% include figure popup=true image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiffonne_-_The_ship_which_Charles_Adam_took_from_the_French_at_the_Seychelles_Islands_RMG_A1580.tiff/lossy-page1-931px-Chiffonne_-_The_ship_which_Charles_Adam_took_from_the_French_at_the_Seychelles_Islands_RMG_A1580.tiff.jpg" alt="HMS Chiffonne" caption="HMS Chiffonne" %}
 
-La Chiffonne was a 36-gun frigate, originally French. In August 1801, she had been captured in the Seychelles and taken to Madras, where Rainier appointed Captain Henry Stuart to her command. He took her to Bombay for a refit, where she stayed from January until July 1802. As surgeon, John Adie was not much involved in the refit, so would have had plenty of time to experience the sensual delights of Bombay. The Chiffonne arrived back in Madras in September 1802, where she stayed for a couple of weeks before departing on 9 October 1802 for Trincomalee and then London. After nearly five years of seafaring, John was on his way home.
+La Chiffonne was a 36-gun frigate, originally French. In August 1801, she had been captured in the Seychelles and taken to Madras, where Rainier appointed Captain Henry Stuart to her command. He took her to Bombay for a refit, where she stayed from January until July 1802. As surgeon, John Adie was not much involved in the refit, so would have had plenty of time to experience the sensual delights of Bombay. The Chiffonne carried dispatches to Calcutta, and arrived back in Madras in September 1802, where she stayed for a couple of weeks before departing on 9 October 1802 for Trincomalee and then London. After nearly five years of seafaring, John was on his way home.
 
 ## The mysterious Mary Ann
 
@@ -407,7 +407,7 @@ After her husband’s death, as his widow Mary Ann was entitled to a small pensi
 
 [^1]: Naval vessels were rated according to their size and armament, with first-rate ships being the most heavily armed.
 
-[^2]: Captain Michael Thomas Weathrall, (1770-1824), based in Calcutta, may have been a relative - possibly Mary Ann’s older brother?
+[^2]: Captain Michael Thomas Weathrall, (1770-1824), based in Calcutta, may have been a relative - possibly Mary Ann’s older brother? If this is true, it is likely that Mary Ann joined HMS Chiffonne in Calcutta.
 
 [^3]: It is possible that Mary Ann was on one of the other vessels in the homeward-bound convoy, and the child was conceived when they anchored in Table Bay. However, John’s words seem to support the assumption that she was on Chiffonne.
 

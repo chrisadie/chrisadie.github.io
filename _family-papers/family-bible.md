@@ -19,6 +19,12 @@ The book was evidently owned by John Adie (Surgeon, RN), and he has written in i
 * Arthur Gifford Adie born at Voe, parish of Delting, Shetland, January 24th 1828 and baptised February 12th 1828
 * Robina Hunter Adie, born at Voe parish of Delting, Shetland, June 3rd 1832 and baptised June 24th 1832
 
-![First page](/assets/genealogy/Family-Bible-1.jpg)
+{% include figure popup=true
+    image_path = "/assets/genealogy/Family-Bible-1.jpg"
+    alt = "First page"
+%}
 
-![Second page](/assets/genealogy/Family-Bible-2.jpg)
+{% include figure popup=true
+    image_path = "/assets/genealogy/Family-Bible-2.jpg"
+    alt = "Second page"
+%}

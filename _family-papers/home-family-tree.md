@@ -7,9 +7,14 @@ This is a carefully-prepared family tree diagram, not in John Adie's writing, th
 
 [Transcription](/assets/genealogy/Home-Family-Tree-transcription.pdf){: .btn .btn--success}
 
-![Right top](/assets/genealogy/Home-Family-Tree-right-top.jpg)
-
-![Right bottom](/assets/genealogy/Home-Family-Tree-right-bottom.jpg)
+{% include figure popup=true
+    image_path = "/assets/genealogy/Home-Family-Tree-right-top.jpg"
+    alt = "Right top"
+%}
+{% include figure popup=true
+    image_path = "/assets/genealogy/Home-Family-Tree-right-bottom.jpg"
+    alt = "Right bottom"
+%}
 
 ## Dating the document
 

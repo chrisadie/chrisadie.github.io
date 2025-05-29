@@ -2,8 +2,10 @@
 title: John Adie and Mary Ann Westile marriage certificate
 excerpt: The "marriage lines" of John and Mary Ann.
 ---
-
-![Marriage Certificate](/assets/genealogy/MAW-JA-Marriage-Certificate.jpeg)
+{% include figure popup=true
+    image_path = "/assets/genealogy/MAW-JA-Marriage-Certificate.jpeg"
+    alt = "Marriage certificate"
+%}
 
 Transcription:
 
