@@ -3,7 +3,7 @@ title: "AIS decoder for Node-RED"
 categories:
   - Blog
 tags:
-  - software
+  - computing
 ---
 
 Back in 2020 when COVID was on the rampage, I was messing about with a couple of bits of technology:
