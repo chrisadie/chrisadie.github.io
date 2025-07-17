@@ -9,6 +9,8 @@ main:
     url: /tags/fiction/
   - title: "Computing"
     url: /tags/computing/
+  - title: "Physics"
+    url: /tags/physics/
   - title: "Tags"
     url: /tags/
   - title: "Contact"
