@@ -11,4 +11,4 @@ title: "Welcome"
 * Perhaps you want to know about my [professional work](/tags/computing) in (what is now called) IT?
 * Maybe you're an old friend who wants to [get back in touch](/contact)?
 
-If you're not one of the above, you probably won't find what you want on this site. Try [Google](https://www.google.com/).
+If you're not one of the above, you probably won't find what you want on this site. Try [Startpage](https://www.startpage.com/).

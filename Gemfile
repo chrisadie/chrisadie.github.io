@@ -14,3 +14,6 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
 end
+
+# Command to run the site locally:
+# bundle exec jekyll serve --port 4010
