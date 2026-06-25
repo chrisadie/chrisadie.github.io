@@ -79,7 +79,7 @@ On 15 November 1800, the Daedalus’s surgeon died, and John Adie was temporaril
 
 Life on the Victorious, a 74-gun third-rate ship of the line, was probably less exciting than on the Leopard or Daedalus. She proceeded from Penang to Colombo, then Bombay (Mumbai), Nagapattinam and Trincomalee, arriving at Madras (Chennai) in September 1801. There, finally, John got his promotion to surgeon on a new ship, [HMS Chiffonne](https://en.wikipedia.org/wiki/French_frigate_Chiffonne_(1799)).
 
-{% include figure popup=true image_path="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Chiffonne_-_The_ship_which_Charles_Adam_took_from_the_French_at_the_Seychelles_Islands_RMG_A1580.tiff/lossy-page1-931px-Chiffonne_-_The_ship_which_Charles_Adam_took_from_the_French_at_the_Seychelles_Islands_RMG_A1580.tiff.jpg" alt="HMS Chiffonne" caption="HMS Chiffonne" %}
+{% include figure popup=true image_path="/assets/genealogy/Chiffonne.jpeg" alt="HMS Chiffonne" caption="HMS Chiffonne" %}
 
 La Chiffonne was a 36-gun frigate, originally French. In August 1801, she had been captured in the Seychelles and taken to Madras, where Rainier appointed Captain Henry Stuart to her command. He took her to Bombay for a refit, where she stayed from January until July 1802. As surgeon, John Adie was not much involved in the refit, so would have had plenty of time to experience the sensual delights of Bombay. The Chiffonne carried dispatches to Calcutta, and arrived back in Madras in September 1802, where she stayed for a couple of weeks before departing on 9 October 1802 for Trincomalee and then London. After nearly five years of seafaring, John was on his way home.
 
