@@ -17,3 +17,6 @@ end
 
 # Command to run the site locally:
 # bundle exec jekyll serve --port 4010
+
+# Command to update the gemfile.lock file:
+# bundle update
