@@ -5,5 +5,6 @@ categories:
 tags:
   - poetry
 link: /assets/poetry/Mount-Doom.pdf
+published: false
 ---
 Written after a walk near Dunbeg, where the effects of recent storms are very evident.

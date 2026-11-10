@@ -5,5 +5,6 @@ categories:
 tags:
   - poetry
 link: /assets/poetry/I-met-a-poem.pdf
+published: false
 ---
 An experimental meta-poem (hah!). It might be good as a performance piece with two voices.
