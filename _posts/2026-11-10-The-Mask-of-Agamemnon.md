@@ -13,7 +13,7 @@ Three thousand years and more interred
 This golden mask with flattened sides
 Now meets the apathetic herd
 Of tourists and their mumbling guides
- 
+
 Unwrinkled lips ignore their stare
 Untarnished half-closed eyes disclaim
 The century and more of air
@@ -23,12 +23,13 @@ This is not Agamemnon's mien
 By sundry hundred years too old
 Perseids ruled Mycenae then
 In Grecian myth their names are told
- 
+
 Sthenelos should we call him now
 That Perseus fathered in his youth?
-No, we shall not such fancies plough
-Into the soil of history’s truth
-The golden face with half a smile 
+No, _we_ shall not such fancies plough
+Into the soil of history’s truth
+
+The golden face with half a smile
 Upturned moustache and almond eyes —
 It’s like a bygone Prussian style
 Perhaps it’s Schliemann in disguise!
